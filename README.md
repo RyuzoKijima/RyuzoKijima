@@ -43,7 +43,7 @@ I began my research in psychology and neuroscience based on my own experience an
 - **DeNA**: Intern (2024.10–)
 - **IGSA**: Intern (2024.8–)
 - **Mentabuddy**: Co-Founder (2024.10–)
-- **LocalHost**: Japan Leader (2024.11–)
+- **LocalHost**: Japan Lead (2024.11–)
 - **International Youth Neuroscience Association Japan**: Founder/Director (2024.9–)
 - **iGEM Grand Tokyo**: Wet Researcher and Head of Entrepreneurship Division (2024.4–)
 - **U.S.-Japan Connector**: Founder (2024.4–)
